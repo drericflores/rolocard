@@ -1,0 +1,88 @@
+﻿List of Enhancements for the Rolocard Application 
+
+Completed:
+
+    • X1. Search Functionality 🔍
+        ◦    - Add a Search Bar: Allow users to search for specific keywords across all cards. Display a list of cards that match the search criteria.
+        ◦    - Highlight Matching Text: When a user selects a card from search results, highlight the matching text within the card.
+      
+    • X2. Card Categorization and Tagging 🏷️
+        ◦    - Tags for Cards: Introduce a tagging system where users can assign tags or categories to each card.
+        ◦    - Filter by Tag: Allow users to filter and view cards based on tags or categories.
+      
+    • X3. Improved Card Navigation 
+        ◦    - Jump to Card: Add an input field that allows users to directly jump to a specific card by entering its number.
+        ◦ - Card Overview: Provide a thumbnail or list view of all cards for quick navigation.
+    • Enhanced Card Editing Features 
+        ◦ Rich Text Editor: Replace the plain text editor with a rich text editor allowing formatting (bold, italics, lists, etc.).
+          
+
+Work in Progress
+
+Auto-Save Functionality  
+    • Auto-Save Cards: Implement an auto-save feature that periodically saves the card deck to prevent data loss.
+    • Version History: Keep a version history of each card, allowing users to revert to previous versions if needed.
+
+Pending enhancements
+
+Data Export and Import Options. 
+    • Export to Different Formats: Enable exporting card decks to various formats like PDF, CSV, or JSON.
+    • Import from Existing Formats: Allow users to import cards from other file formats or even other applications.
+       
+User Authentication and Cloud Sync 
+User Login System: Add a basic user authentication system to secure different card decks for different users.
+Cloud Synchronization: Enable cloud sync so users can access and edit their card decks from multiple devices.
+       
+Attachments and Media: 
+Allow users to attach images or files to each card, making it more versatile.
+       
+Card Sorting and Reordering 
+Manual Sorting: Allow users to drag and drop cards to reorder them.
+Sort by Criteria: Implement sorting options (e.g., by creation date, by last modified date, alphabetically by title).
+       
+Themes and Customization 
+Custom Themes: Offer various themes and color schemes for users to personalize the appearance of the application.
+Font and Layout Customization: Let users choose fonts, text sizes, and layout styles.
+
+Collaboration Features 
+Share Card Decks: Allow users to share their card decks with others, with options for read-only or edit access.
+Real-Time Collaboration: Implement real-time collaboration where multiple users can edit a card deck simultaneously.
+       
+Analytics and Insights 
+Card Usage Statistics: Provide users with insights on their card usage, such as the most frequently accessed cards, or trends in card creation.
+Progress Tracking: Track and display user progress if cards are used for tasks or study purposes.
+       
+Mobile Application 
+Cross-Platform Availability: Develop a mobile version of the application for Android and iOS, ensuring that users can access their cards on the go.
+Responsive Design: Ensure the desktop version is responsive for use on tablets and smaller screens.
+       
+Integration with Other Tools 
+API for Integration: Create an API that allows integration with other productivity tools, such as task managers or calendars.
+Synchronization with Note-Taking Apps: Integrate with popular note-taking apps like Evernote or OneNote.
+       
+Theming and Customization
+Allow users to choose between different themes (e.g., dark mode, light mode) or customize the color scheme.
+       
+Synchronization and Cloud Storage
+Integrate cloud storage services to allow users to sync their card decks across multiple devices.
+Mobile Application:
+Develop a mobile version of the application using a framework like Kivy, allowing users to access their card decks on smartphones and tablets.
+
+Advanced Search and Filters
+Implement advanced search options, such as searching by tags, date created, or other metadata.
+
+Card Templates
+Introduce templates for different types of cards (e.g., contact cards, task cards) to make it easier to create new cards with predefined structures.
+
+Export and Sharing Options
+Add features to export card decks in different formats (e.g., PDF, CSV) and share them with others.
+
+Backup and Restore:
+
+Implement automatic backup and restore options to prevent data loss.
+
+Localization
+
+Provide support for multiple languages to make the application accessible to a global audience.
+        
+        
